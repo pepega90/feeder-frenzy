@@ -6,4 +6,4 @@ made with javascript and kaboom.js
 
 <img src="https://github.com/pepega90/feeder-frenzy/blob/main/game.gif" />
 
-Play [here](https://festive-khorana-bf73fb.netlify.app/)
+Play [here](https://upbeat-rosalind-125fd2.netlify.app/)
