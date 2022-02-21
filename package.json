@@ -1,0 +1,25 @@
+{
+  "name": "alien_jump",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "kaboom": "^2000.1.6",
+    "parcel": "1.12.3",
+    "parcel-plugin-clean-easy": "^1.0.2",
+    "parcel-plugin-static-files-copy": "^2.6.0"
+  },
+  "scripts": {
+    "game": "parcel index.html -p 8000"
+  },
+  "parcelCleanPaths": [
+    "dist"
+  ],
+  "staticFiles": {
+    "staticPath": "public",
+    "watcherGlob": "**"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
